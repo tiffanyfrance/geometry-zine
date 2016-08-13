@@ -1,0 +1,3 @@
+[submodule "geometry-zine"]
+	path = geometry-zine
+	url = https://github.com/antonpantev/geometry-zine.git
